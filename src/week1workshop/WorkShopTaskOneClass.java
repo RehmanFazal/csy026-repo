@@ -1,4 +1,4 @@
-package workshop;
+package week1workshop;
 
 public class WorkShopTaskOneClass {
     private double num1 = 5.6;

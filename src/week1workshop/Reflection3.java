@@ -1,4 +1,4 @@
-package workshop;
+package week1workshop;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;

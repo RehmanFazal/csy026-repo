@@ -1,4 +1,4 @@
-package workshop;
+package week1workshop;
 
 import org.junit.Test;
 
