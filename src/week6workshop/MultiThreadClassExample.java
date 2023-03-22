@@ -1,4 +1,4 @@
-package week3workshop;
+package week6workshop;
 
 import java.util.Scanner;
 import java.util.concurrent.ExecutorService;

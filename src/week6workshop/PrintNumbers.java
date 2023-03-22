@@ -1,4 +1,4 @@
-package week3workshop;
+package week6workshop;
 
 public class PrintNumbers implements Runnable {
     @Override
